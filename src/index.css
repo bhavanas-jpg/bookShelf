@@ -91,3 +91,20 @@ nav{
 .categorySelector  li{
   cursor: pointer;
 }
+.search-main{
+  margin-top: 2rem;
+}
+.search-main input{
+  width: 100%;
+  outline:none;
+  border-radius: 20px;
+  padding: 1rem;
+}
+.search-content{
+  display: flex;
+  gap: 2rem;
+}
+.heading{
+  text-align: center;
+  margin-top: 2rem;
+}

@@ -20,10 +20,6 @@ export const BookProvider = ({children})=>{
    : book)
    setAllBooks(updateBooks)
   }
-
-
-
-
     return(
         <BookContext.Provider value={{
             categoryList, 
